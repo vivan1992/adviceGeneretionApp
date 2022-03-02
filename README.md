@@ -9,7 +9,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://vivan1992.github.io/adviceGeneretionApp/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/advice-generator-app-Rbo35EeGJ)
 - Live Site URL: [Add live site URL here](https://vivan1992.github.io/adviceGeneretionApp/)
 
 
